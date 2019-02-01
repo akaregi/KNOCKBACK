@@ -1,0 +1,10 @@
+.gradle
+.idea
+bin
+out
+
+.classpath
+.project
+
+src/main/resources
+src/main/kotlin/com/github/akaregi/knockback/misc
